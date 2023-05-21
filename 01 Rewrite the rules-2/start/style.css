@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+
+}
+
+
+
+:root{  
+    
+
+background-color: blueviolet;
+text-decoration: underline;
+color: blue;
+margin: 10px;
+}
+    
+
+
+body {
+    background-color: #0cd4d4;
+    
+    
+    margin: 10px;
+    color: blue;
+  
+}
+
+.ball {
+    width: 109px;
+    height: 109px;
+    background-color: #b4135e;
+    border-radius: 60px;
+    margin: 10px;
+    text-decoration: rgb(27, 116, 194);
+}
