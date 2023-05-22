@@ -1,0 +1,33 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+.calculator-form {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1px;
+  padding: 10px;
+  max-width: 300px;
+  margin: 0 auto;
+  
+}
+
+.display {
+  grid-column: 1 / span 4;
+  background-color: #9f7474;
+  padding: 10px;
+  text-align: right;
+}
+
+.btn {
+  background-color: #efdcdc;
+  border: 5px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+.calculator-form--active{
+border: 5px;
+  padding:10px ;
+}
