@@ -1,0 +1,35 @@
+*{
+
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+}
+body{
+
+    display: flex;
+}
+#yellow{
+
+    order:1;
+}
+#green{
+
+    order:4;
+
+
+}
+#orange{
+
+    order: 2;
+    width: 20rem;
+}
+#red{
+
+
+    order: 3;
+}
+#blue{
+
+    order: 5;
+}
