@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+  }
+  
+  #green {
+    background-color: green;
+    height: 50vh;
+  }
+  
+  #yellow {
+    background-color: yellow;
+    height: 100vh;
+  }
+  
+  #orange {
+    background-color: orange;
+    height: 50vh;
+  }
+  
+  #red {
+    background-color: red;
+    height: 100vh;
+  }
+  
+  #blue {
+    background-color: blue;
+    height: 50vh;
+  }
+  
